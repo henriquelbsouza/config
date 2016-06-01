@@ -1,0 +1,12 @@
+[user]
+	email = hsouza@thoughtworks.com
+	name = Henrique Lauro Bagio de Souza
+[color]
+	ui = true
+[core]
+	autocrlf = input
+[pull]
+	rebase = true
+[alias]
+	s = status -s
+	lg = log --oneline --decorate --all --graph
